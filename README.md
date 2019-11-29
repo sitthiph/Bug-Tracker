@@ -12,7 +12,7 @@ A bug tracking system or defect tracking system is a software application that k
 
 ### Customers
 
-Software development team. It can be that of a personal level team or enterprise-level team.
+Software development team at a personal level team or enterprise-level team.
 
 ### Functionality
 
